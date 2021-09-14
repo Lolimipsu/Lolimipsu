@@ -1,6 +1,7 @@
 <h1 align="left" id="title_loli">👋 Hello there, I'm MxLoli</h1>
-<h3 align="left">I'm a BSCS Student and I love making games.</h3>
 <a><img align="right" src="https://raw.githubusercontent.com/Lolimipsu/Lolimipsu/main/tk_01_99_01.png"/></a>
+<h3 align="left">I'm a BSCS Student and I love making games.</h3>
+
 
 <p align="left">
     <a href="https://github.com/Lolimipsu/Lolimipsu">

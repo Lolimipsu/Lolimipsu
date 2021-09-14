@@ -1,5 +1,6 @@
 <h1 align="left" id="title_loli">👋 Hello there, I'm MxLoli</h1>
 <h3 align="left">I'm a BSCS Student and I love game development.</h3>
+<a><img align="right" src="https://raw.githubusercontent.com/Lolimipsu/Lolimipsu/main/tk_01_99_01.png"/></a>
 
 <p align="left">
     <a href="https://github.com/Lolimipsu/Lolimipsu">
@@ -15,8 +16,6 @@
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MxLoli04">
     </a>
 </p>
-<a><img align="right" src="https://raw.githubusercontent.com/Lolimipsu/Lolimipsu/main/tk_01_99_01.png"/></a>
-
 
 ### 🧐 More About Me:
 

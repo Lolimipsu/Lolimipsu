@@ -25,6 +25,7 @@
 - 💬 Ask me about anything tech related, I am happy to help.
 - 📫 Feel free to contact me on [Reddit](https://www.reddit.com/u/mxloli)
 - 📚  When I am free, I watch Anime or read Manga.
+- 🎤 It's not over until it's over!
 
  ![Stats Overview](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/overview.svg)
  ![Most Used Languages](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/languages.svg)

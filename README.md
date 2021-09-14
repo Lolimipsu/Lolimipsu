@@ -15,6 +15,8 @@
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MxLoli04">
     </a>
 </p>
+<a><img align="right" src="https://raw.githubusercontent.com/Lolimipsu/Lolimipsu/main/tk_01_99_01.png"/></a>
+
 
 ### 🧐 More About Me:
 

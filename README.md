@@ -24,8 +24,8 @@
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Lolimipsu?tab=repositories)
 - 💬 Ask me about anything tech related, I am happy to help.
 - 📫 Feel free to contact me on [Reddit](https://www.reddit.com/u/mxloli)
-- 📚  When I am free, I watch Anime or read Manga.
-- 🎤 It's not over until it's over!
+- 📚 When I am free, I watch Anime or read Manga.
+- 🎤 Favorite Quote: *"It's not over till it's over!"*
 
  ![Stats Overview](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/overview.svg)
  ![Most Used Languages](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/languages.svg)

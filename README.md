@@ -12,8 +12,8 @@
     <a href="https://github.com/Lolimipsu?tab=followers">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/Lolimipsu?color=green&logo=github">
     </a>
-    <a href=" https://twitter.com/mxloli04">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MxLoli04">
+    <a href="https://twitter.com/mxloli04">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MxLoli04?style=social">
     </a>
 </p>
 

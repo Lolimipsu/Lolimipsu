@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning CPP 
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Lolimipsu?tab=repositories)
 - 💬 Ask me about anything tech related, I am happy to help.
-- 📫 Feel free to contact me on [Reddit](https://www.reddit.com/u/mxloli)
+- 📫 Feel free to contact me on [Facebook](https://www.facebook.com/MxLoli04/)
 - 📚 When I am free, I watch Anime or read Manga.
 - 🎤 Favorite Quote: *"It's not over till it's over!"*
 

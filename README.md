@@ -20,7 +20,7 @@
 ### 🧐 More About Me:
 
 - 🔭 I’m currently working on **Karakai Jouzu no Takagi-san fan VN**
-- 🌱 I’m currently learning CPP 
+- 🌱 I’m currently learning C++
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Lolimipsu?tab=repositories)
 - 💬 Ask me about anything tech related, I am happy to help.
 - 📫 Feel free to contact me on [Facebook](https://www.facebook.com/MxLoli04/)

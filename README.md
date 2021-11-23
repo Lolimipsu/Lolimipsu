@@ -25,7 +25,7 @@
 - 💬 Ask me about anything tech related, I am happy to help.
 - 📫 Feel free to contact me on [Facebook](https://www.facebook.com/MxLoli04/)
 - 📚 When I am free, I watch Anime or read Manga.
-- 🎤 Favorite Quote: *"It's not over till it's over!"*
+- 🎤 Favorite Quote: *"It's not over until it's over!"*
 
  ![Stats Overview](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/overview.svg)
  ![Most Used Languages](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/languages.svg)

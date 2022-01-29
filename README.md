@@ -17,10 +17,10 @@
     </a>
 </p>
 
-### 🧐 More About Me:
+### More About Me:
 
 - 🔭 I’m currently working on **Karakai Jouzu no Takagi-san fan VN**
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently (re)learning JAVA
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Lolimipsu?tab=repositories)
 - 💬 Ask me about anything tech related, I am happy to help.
 - 📫 Feel free to contact me on [Facebook](https://www.facebook.com/MxLoli04/)
@@ -29,25 +29,3 @@
 
  ![Stats Overview](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/overview.svg)
  ![Most Used Languages](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/languages.svg)
-
-
-
-<!--<h1 align='center'></h1>
-**Lolimipsu/Lolimipsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-  <a href="#title_loli">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Lolimipsu&count_private=true&show_icons=true&theme=github_dark" width="420px"/>
-  </a>
-  <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lolimipsu&layout=compact&theme=github_dark"/></a>
--->

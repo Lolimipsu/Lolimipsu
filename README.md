@@ -1,5 +1,5 @@
-<h1 align="left" id="title_loli">👋 Hello there, I'm MxLoli</h1>
-<h3 align="left">I'm a BSCS Undergrad and I love making games.</h3>
+<h1 align="left" id="title_loli">Hi, I'm MxLoli</h1>
+<h3 align="left">I'm a BSCS Undergrad and I like making games.</h3>
 <a><img align="right" src="https://raw.githubusercontent.com/Lolimipsu/Lolimipsu/main/tk_01_99_01.png"/></a>
 
 <p align="left">
@@ -19,7 +19,7 @@
 
 ### More About Me:
 
-- 🔭 I’m currently working on **Karakai Jouzu no Takagi-san fan VN**
+- 🔭 I’m currently working on **Karakai Jouzu no Takagi-san FAN VN**
 - 🌱 I’m currently (re)learning JAVA
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Lolimipsu?tab=repositories)
 - 💬 Ask me about anything tech related, I am happy to help.

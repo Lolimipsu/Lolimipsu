@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **Karakai Jouzu no Takagi-san FAN VN**
 - 🌱 I’m currently (re)learning JAVA
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Lolimipsu?tab=repositories)
-- 📫 Feel free to contact me on [Facebook](https://www.facebook.com/MxLoli04/)
+- 📫 Feel free to contact me on [facebook](https://www.facebook.com/MxLoli04/)
 - 🎤 Favorite Quote: *"It's not over 'til it's over!"*
 
  ![Stats Overview](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/overview.svg)

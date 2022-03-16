@@ -3,7 +3,7 @@
 <a><img align="right" src="https://raw.githubusercontent.com/Lolimipsu/Lolimipsu/main/tk_01_99_01.png"/></a>
 
 <p align="left">
-    <a href="https://github.com/Lolimipsu/Lolimipsu">
+    <a href="https://github.com/Lolimipsu/">
       <img src="https://komarev.com/ghpvc/?username=Lolimipsu" alt="page views" />
     </a>
     <a href="https://reddit.com/u/MxLoli">
@@ -22,10 +22,8 @@
 - 🔭 I’m currently working on **Karakai Jouzu no Takagi-san FAN VN**
 - 🌱 I’m currently (re)learning JAVA
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Lolimipsu?tab=repositories)
-- 💬 Ask me about anything tech related, I am happy to help.
 - 📫 Feel free to contact me on [Facebook](https://www.facebook.com/MxLoli04/)
-- 📚 When I am free, I watch Anime or read Manga.
-- 🎤 Favorite Quote: *"It's not over until it's over!"*
+- 🎤 Favorite Quote: *"It's not over 'til it's over!"*
 
  ![Stats Overview](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/overview.svg)
  ![Most Used Languages](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/languages.svg)

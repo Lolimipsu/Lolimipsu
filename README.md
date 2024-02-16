@@ -15,3 +15,5 @@
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Lolimipsu?tab=repositories)
 - 🎤 Favorite Quote: *"It's not over 'til it's over!"*
 
+ ![Stats Overview](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/overview.svg)
+ ![Most Used Languages](https://raw.githubusercontent.com/Lolimipsu/github-stats-transparent/output/generated/languages.svg)

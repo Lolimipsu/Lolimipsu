@@ -1,5 +1,5 @@
 <h1 align="left" id="title_loli">Hi, I'm Borgaro</h1>
-<h3 align="left">I'm an aspiring Software Engineer and I like making games.</h3>
+<h3 align="left">I'm an aspiring Data Engineer and I like making games.</h3>
 
 <p align="left">
     <a href="https://github.com/Lolimipsu/">
